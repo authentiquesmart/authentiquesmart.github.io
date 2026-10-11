@@ -1,0 +1,13 @@
+# CATALOGUE AUTHENTIQUE SMART
+# Une ligne par téléphone, avec 5 informations séparées par le signe |
+# Nom | Catégorie | Détails | Prix en FCFA (chiffres seulement) | Nom de la photo
+# Pour marquer un téléphone vendu, ajoute | vendu à la fin de la ligne.
+# Pour cacher un téléphone, mets le signe # au début de sa ligne.
+# Les prix ci-dessous sont des exemples : remplace-les par tes vrais prix.
+
+Samsung Galaxy S24 | Samsung | 256 Go, comme neuf | 450000 | s24.jpg
+Samsung Galaxy Z Flip 5 | Samsung | 256 Go, très bon état | 380000 | zflip5.jpg
+Samsung Galaxy Z Fold 5 | Samsung | 256 Go, très bon état | 650000 | zfold5.jpg
+iPhone 13 | iPhone | 128 Go, batterie 90 % | 280000 | iphone13.jpg
+iPhone 14 Pro | iPhone | 256 Go, très bon état | 520000 | iphone14pro.jpg
+iPhone 15 | iPhone | 128 Go, neuf | 560000 | iphone15.jpg
