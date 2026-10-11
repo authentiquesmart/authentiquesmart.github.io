@@ -4,64 +4,50 @@
 # Le dossier (Samsung, iPhone, Google Pixel, Accessoires divers...) crée automatiquement un bouton de tri sur le site.
 # Pour marquer un article vendu, ajoute | vendu à la fin de la ligne.
 # Pour cacher un article, mets le signe # au début de sa ligne.
-# Les articles et les prix ci-dessous sont des EXEMPLES : remplace-les par tes vrais articles.
 
 # --- DOSSIER SAMSUNG ---
-Samsung Galaxy S24 | Samsung | 256 Go, comme neuf | 450000
-Samsung Galaxy S24 Ultra | Samsung | 256 Go, neuf | 750000
-Samsung Galaxy S23 | Samsung | 128 Go, très bon état | 380000
-Samsung Galaxy S22 | Samsung | 128 Go, bon état | 280000
-Samsung Galaxy A55 | Samsung | 128 Go, neuf | 250000
-Samsung Galaxy A35 | Samsung | 128 Go, neuf | 190000
-Samsung Galaxy A15 | Samsung | 128 Go, neuf | 95000
-Samsung Galaxy Z Flip 5 | Samsung | 256 Go, très bon état | 380000
-Samsung Galaxy Z Fold 5 | Samsung | 256 Go, très bon état | 650000
-Samsung Galaxy Note 20 Ultra | Samsung | 256 Go, bon état | 300000
+Samsung Galaxy S24 | Samsung | 256 Go, neuf scellé | 380000
+Samsung Galaxy S24 Ultra | Samsung | 256 Go, neuf scellé | 450000
+Samsung Galaxy S23 | Samsung | 256 Go, neuf scellé | 270000
+Samsung Galaxy S22 Ultra | Samsung | 128 Go, neuf scellé | 250000
+Samsung Galaxy A55 | Samsung | 128 Go, neuf scellé | 250000
+Samsung Galaxy A35 | Samsung | 128 Go, neuf scellé | 190000
+Samsung Galaxy A16 | Samsung | 128 Go, neuf scellé | 90000
+Samsung Galaxy Z Flip 5 | Samsung | 256 Go, neuf scellé | 285000
+Samsung Galaxy Z Fold 5 | Samsung | 256 Go, neuf scellé | 450000
+Samsung Galaxy Z Fold 6 | Samsung | 256 Go, neuf scellé | 600000
 
 # --- DOSSIER IPHONE ---
-iPhone 11 | iPhone | 64 Go, batterie 85 % | 150000
-iPhone 12 | iPhone | 64 Go, batterie 87 % | 210000
-iPhone 13 | iPhone | 128 Go, batterie 90 % | 280000
-iPhone 14 | iPhone | 128 Go, très bon état | 350000
-iPhone 14 Pro | iPhone | 256 Go, très bon état | 520000
-iPhone 15 | iPhone | 128 Go, neuf | 560000
-iPhone 15 Pro | iPhone | 256 Go, neuf | 700000
-iPhone 15 Pro Max | iPhone | 256 Go, neuf | 850000
-iPhone 16 | iPhone | 128 Go, neuf | 650000
-iPhone 18 Pro | iPhone | 256 Go, neuf | 970000 | 18pro.JPG
+iPhone 13 simple | iPhone | 128 Go, neuf scellé | 200000
+iPhone 15 simple | iPhone | 128 Go, neuf scellé | 330000 | iphone15.jpg
+iPhone 16 simple | iPhone | 128 Go, neuf scellé | 415000
+iPhone 17 Air | iPhone | 256 Go, neuf scellé | 435000
+iPhone 14 Pro | iPhone | 256 Go, neuf scellé | 330000
+iPhone 17 Pro | iPhone | 256 Go, neuf scellé | 730000
+iPhone 17 Pro max | iPhone | 256 Go, neuf scellé | 820000
+iPhone 18 Pro | iPhone | 256 Go, neuf scellé | 980000 | 18pro.JPG
+iPhone 18pro max | iPhone | 256 Go, neuf scellé | 1100000
+iPhone 18 Pro max | iPhone | 512 Go, neuf scellé | 1300000
 
 # --- DOSSIER GOOGLE PIXEL ---
-Google Pixel 6 | Google Pixel | 128 Go, bon état | 160000
-Google Pixel 6a | Google Pixel | 128 Go, bon état | 120000
-Google Pixel 7 | Google Pixel | 128 Go, très bon état | 200000
-Google Pixel 7a | Google Pixel | 128 Go, très bon état | 230000
-Google Pixel 7 Pro | Google Pixel | 128 Go, très bon état | 270000
-Google Pixel 8 | Google Pixel | 128 Go, comme neuf | 310000
-Google Pixel 8a | Google Pixel | 128 Go, neuf | 280000
-Google Pixel 8 Pro | Google Pixel | 256 Go, comme neuf | 400000
-Google Pixel 9 | Google Pixel | 128 Go, neuf | 450000
-Google Pixel 9 Pro | Google Pixel | 256 Go, neuf | 560000
-
-# --- DOSSIER TECNO ---
-Tecno Spark 20 | TECNO | 128 Go, neuf | 70000
-Tecno Spark 20 Pro | TECNO | 256 Go, neuf | 95000
-Tecno Spark 10 | TECNO | 128 Go, neuf | 65000
-Tecno Spark Go 2024 | TECNO | 64 Go, neuf | 50000
-Tecno Camon 20 | TECNO | 256 Go, neuf | 110000
-Tecno Camon 30 | TECNO | 256 Go, neuf | 140000
-Tecno Pova 5 | TECNO | 128 Go, neuf | 100000
-Tecno Pova 6 Pro | TECNO | 256 Go, neuf | 145000
-Tecno Phantom X2 | TECNO | 256 Go, très bon état | 280000
-Tecno Phantom V Fold | TECNO | 256 Go, très bon état | 520000
+Google Pixel 9A | Google Pixel | 256 Go, neuf scellé | 420000
+Google Pixel 9 | Google Pixel | 128 Go, neuf scellé | 450000
+Google Pixel 9 pro | Google Pixel | 128 Go, neuf scellé | 550000
+Google Pixel 9 Xl | Google Pixel | 128 Go, neuf scellé | 590000
+Google Pixel 9 Pro Xl  | Google Pixel | 256 Go, neuf scellé | 690000
+Google Pixel 9 Pro Xl fold  | Google Pixel | 256 Go, neuf scellé | 790000
+Google Pixel 10 | Google Pixel | 256 Go, neuf scellé | 630000
+Google Pixel 10 Pro | Google Pixel | 256 Go, neuf scellé | 765000
+Google Pixel 10 Pro Xl | Google Pixel | 256 Go, neuf scellé | 820000
 
 # --- DOSSIER ACCESSOIRES DIVERS ---
-Chargeur rapide 20W | Accessoires divers | Prise USB-C, compatible tous téléphones | 10000
+Chargeur rapide 20W | Accessoires divers | Prise USB-C, compatible tous téléphones | 60000
 Câble USB-C | Accessoires divers | 1 mètre, charge rapide | 3000
 Câble Lightning | Accessoires divers | 1 mètre, pour iPhone | 3000
-AirPods | Accessoires divers | Écouteurs sans fil, avec boîtier de charge | 85000
+AirPods 4  | Accessoires divers | Écouteurs sans fil, avec boîtier de charge | 125000
 Écouteurs Bluetooth | Accessoires divers | Autonomie 20 heures | 12000
 Coque de protection | Accessoires divers | Plusieurs modèles disponibles | 3000
-Verre trempé | Accessoires divers | Protège l'écran, pose offerte | 2000
-Powerbank 20000 mAh | Accessoires divers | Deux ports USB, charge rapide | 15000
-Support voiture | Accessoires divers | Fixation tableau de bord | 5000
-Montre connectée | Accessoires divers | Notifications, suivi du sport | 20000
+Verre trempé | Accessoires divers | Protège l'écran, pose offerte | 1000
+Powerbank 20000 mAh | Accessoires divers | Deux ports USB, charge rapide | 10000
+Support AirPods | Accessoires divers | | 1000
+Montre connectée | Accessoires divers | Notifications, suivi du sport | 40000
