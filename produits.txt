@@ -7,47 +7,47 @@
 
 # --- DOSSIER SAMSUNG ---
 Samsung Galaxy S24 | Samsung | 256 Go, neuf scellé | 380000
-Samsung Galaxy S24 Ultra | Samsung | 256 Go, neuf scellé | 450000
-Samsung Galaxy S23 | Samsung | 256 Go, neuf scellé | 270000
-Samsung Galaxy S22 Ultra | Samsung | 128 Go, neuf scellé | 250000
-Samsung Galaxy A55 | Samsung | 128 Go, neuf scellé | 250000
-Samsung Galaxy A35 | Samsung | 128 Go, neuf scellé | 190000
-Samsung Galaxy A16 | Samsung | 128 Go, neuf scellé | 90000
+Samsung Galaxy S24 Ultra | Samsung | 256 Go, neuf scellé | 450000 | S24 ultra.JPG
+Samsung Galaxy S23 | Samsung | 256 Go, neuf scellé | 270000 | S23 Galaxy.JPG
+Samsung Galaxy S22 Ultra | Samsung | 128 Go, neuf scellé | 250000 | S22 ultra.JPG
+Samsung Galaxy A55 | Samsung | 128 Go, neuf scellé | 250000 | A55.JPG
+Samsung Galaxy A35 | Samsung | 128 Go, neuf scellé | 190000 | A35.JPG
+Samsung Galaxy A16 | Samsung | 128 Go, neuf scellé | 90000 | A16.JPG
 Samsung Galaxy Z Flip 5 | Samsung | 256 Go, neuf scellé | 285000
-Samsung Galaxy Z Fold 5 | Samsung | 256 Go, neuf scellé | 450000
+Samsung Galaxy Z Fold 5 | Samsung | 256 Go, neuf scellé | 450000 | Fold 5.JPG
 Samsung Galaxy Z Fold 6 | Samsung | 256 Go, neuf scellé | 600000
 
 # --- DOSSIER IPHONE ---
-iPhone 13 simple | iPhone | 128 Go, neuf scellé | 200000
+iPhone 13 simple | iPhone | 128 Go, neuf scellé | 200000 | iphone13.jpg
 iPhone 15 simple | iPhone | 128 Go, neuf scellé | 330000 | iphone15.jpg
 iPhone 16 simple | iPhone | 128 Go, neuf scellé | 415000
-iPhone 17 Air | iPhone | 256 Go, neuf scellé | 435000
-iPhone 14 Pro | iPhone | 256 Go, neuf scellé | 330000
-iPhone 17 Pro | iPhone | 256 Go, neuf scellé | 730000
-iPhone 17 Pro max | iPhone | 256 Go, neuf scellé | 820000
-iPhone 18 Pro | iPhone | 256 Go, neuf scellé | 980000 | 18pro.JPG
+iPhone 17 Air | iPhone | 256 Go, neuf scellé | 435000 | 17 air.JPG
+iPhone 14 Pro | iPhone | 256 Go, neuf scellé | 330000 | iphone14pro.jpg
+iPhone 17 Pro | iPhone | 256 Go, neuf scellé | 730000 | 17pro .JPG
+iPhone 17 Pro max | iPhone | 256 Go, neuf scellé | 820000 | 17pro max.JPG
+iPhone 18 Pro | iPhone | 256 Go, neuf scellé | 980000
 iPhone 18pro max | iPhone | 256 Go, neuf scellé | 1100000
 iPhone 18 Pro max | iPhone | 512 Go, neuf scellé | 1300000
 
 # --- DOSSIER GOOGLE PIXEL ---
 Google Pixel 9A | Google Pixel | 256 Go, neuf scellé | 420000
 Google Pixel 9 | Google Pixel | 128 Go, neuf scellé | 450000
-Google Pixel 9 pro | Google Pixel | 128 Go, neuf scellé | 550000
+Google Pixel 9 pro | Google Pixel | 128 Go, neuf scellé | 550000 | Pixel 9pro.JPG
 Google Pixel 9 Xl | Google Pixel | 128 Go, neuf scellé | 590000
-Google Pixel 9 Pro Xl  | Google Pixel | 256 Go, neuf scellé | 690000
-Google Pixel 9 Pro Xl fold  | Google Pixel | 256 Go, neuf scellé | 790000
-Google Pixel 10 | Google Pixel | 256 Go, neuf scellé | 630000
-Google Pixel 10 Pro | Google Pixel | 256 Go, neuf scellé | 765000
-Google Pixel 10 Pro Xl | Google Pixel | 256 Go, neuf scellé | 820000
+Google Pixel 9 Pro Xl | Google Pixel | 256 Go, neuf scellé | 690000 | Pixel Xl pro .JPG
+Google Pixel 9 Pro Xl fold | Google Pixel | 256 Go, neuf scellé | 790000 | Pixel 9pro fold.JPG
+Google Pixel 10 | Google Pixel | 256 Go, neuf scellé | 630000 | Pixel 10.JPG
+Google Pixel 10 Pro | Google Pixel | 256 Go, neuf scellé | 765000 | Pixel 10pro.JPG
+Google Pixel 10 Pro Xl | Google Pixel | 256 Go, neuf scellé | 820000 | Pixel 10pro Xl.JPG
 
 # --- DOSSIER ACCESSOIRES DIVERS ---
 Chargeur rapide 20W | Accessoires divers | Prise USB-C, compatible tous téléphones | 6000
-Câble USB-C | Accessoires divers | 1 mètre, charge rapide | 3000
+Câble USB-C | Accessoires divers | 1 mètre, charge rapide | 3000 | cable-usbc.jpg
 Câble Lightning | Accessoires divers | 1 mètre, pour iPhone | 3000
-AirPods 4  | Accessoires divers | Écouteurs sans fil, avec boîtier de charge | 125000
-Écouteurs Bluetooth | Accessoires divers | Autonomie 20 heures | 12000
-Coque de protection | Accessoires divers | Plusieurs modèles disponibles | 3000
-Verre trempé | Accessoires divers | Protège l'écran, pose offerte | 1000
+AirPods 4 | Accessoires divers | Écouteurs sans fil, avec boîtier de charge | 125000 | AirPod 4.JPG
+Écouteurs Bluetooth | Accessoires divers | Autonomie 20 heures | 12000 | ecouteurs-bluetooth.jpg
+Coque de protection | Accessoires divers | Plusieurs modèles disponibles | 3000 | Coque de protection .JPG
+Verre trempé | Accessoires divers | Protège l'écran, pose offerte | 1000 | verre-trempe.jpg
 Powerbank 20000 mAh | Accessoires divers | Deux ports USB, charge rapide | 10000
-Support AirPods | Accessoires divers | | 1000
+Support AirPods | Accessoires divers |  | 1000 | Support AirPods .JPG
 Montre connectée | Accessoires divers | Notifications, suivi du sport | 40000
