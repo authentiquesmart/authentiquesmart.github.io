@@ -18,8 +18,8 @@ Samsung Galaxy Z Fold 5 | Samsung | 256 Go, neuf scellé | 450000 | Fold 5.JPG
 Samsung Galaxy Z Fold 6 | Samsung | 256 Go, neuf scellé | 600000
 
 # --- DOSSIER IPHONE ---
-iPhone 13 simple | iPhone | 128 Go, neuf scellé | 200000 | iphone13.jpg
-iPhone 15 simple | iPhone | 128 Go, neuf scellé | 330000 | iphone15.jpg
+iPhone 13 simple | iPhone | 128 Go, neuf scellé | 200000 | 13simple.JPG
+iPhone 15 simple | iPhone | 128 Go, neuf scellé | 330000 | 15simple.JPG
 iPhone 16 simple | iPhone | 128 Go, neuf scellé | 415000
 iPhone 17 Air | iPhone | 256 Go, neuf scellé | 435000 | 17 air.JPG
 iPhone 14 Pro | iPhone | 256 Go, neuf scellé | 330000 | iphone14pro.jpg
@@ -42,12 +42,12 @@ Google Pixel 10 Pro Xl | Google Pixel | 256 Go, neuf scellé | 820000 | Pixel 10
 
 # --- DOSSIER ACCESSOIRES DIVERS ---
 Chargeur rapide 20W | Accessoires divers | Prise USB-C, compatible tous téléphones | 6000
-Câble USB-C | Accessoires divers | 1 mètre, charge rapide | 3000 | cable-usbc.jpg
+Câble USB-C | Accessoires divers | 1 mètre, charge rapide | 3000 | Câble usb.JPG
 Câble Lightning | Accessoires divers | 1 mètre, pour iPhone | 3000
 AirPods 4 | Accessoires divers | Écouteurs sans fil, avec boîtier de charge | 125000 | AirPod 4.JPG
-Écouteurs Bluetooth | Accessoires divers | Autonomie 20 heures | 12000 | ecouteurs-bluetooth.jpg
+Écouteurs Bluetooth | Accessoires divers | Autonomie 20 heures | 12000 | Écouteurs Bluetooth .JPG
 Coque de protection | Accessoires divers | Plusieurs modèles disponibles | 3000 | Coque de protection .JPG
-Verre trempé | Accessoires divers | Protège l'écran, pose offerte | 1000 | verre-trempe.jpg
+Verre trempé | Accessoires divers | Protège l'écran, pose offerte | 1000 | Verre trempé .JPG
 Powerbank 20000 mAh | Accessoires divers | Deux ports USB, charge rapide | 10000
 Support AirPods | Accessoires divers |  | 1000 | Support AirPods .JPG
 Montre connectée | Accessoires divers | Notifications, suivi du sport | 40000
